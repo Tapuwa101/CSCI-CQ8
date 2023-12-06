@@ -1,4 +1,4 @@
-Let's analyze the time and space complexity of the given code:
+Staircase:
 
 Time Complexity:
 We can determine this by looking at how many nested loops we have in the fuction.
